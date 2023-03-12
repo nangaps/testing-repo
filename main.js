@@ -1,1 +1,1 @@
-console.log('test ubah')
+console.log('test ubah','bug fix')
